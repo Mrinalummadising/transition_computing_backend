@@ -1,0 +1,10 @@
+
+GET http://localhost:3000/
+
+###
+
+GET http://localhost:3000/checklist
+
+###
+
+GET http://localhost:3000/htmlPage
